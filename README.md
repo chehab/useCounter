@@ -1,2 +1,0 @@
-# useCounter
-Created with CodeSandbox
